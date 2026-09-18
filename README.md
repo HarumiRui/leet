@@ -1,6 +1,6 @@
 # leet
 for school developer
-Here you can see my solutions for 4 tasks on LeetCode:
+Here you can see my solutions for 4 tasks in the branch for LeetCode:
 
 1. **13. Roman to Integer** — *Easy*
 2. **7. Reverse Integer** — *Medium*
